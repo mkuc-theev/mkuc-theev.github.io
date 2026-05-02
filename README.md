@@ -1,6 +1,7 @@
 # The Official WTMC Fantasia Minecraft Server Client Setup Guide
 <sub> *(TOWTMCFMSCSG) for short* </sub>
 ## Some server information
+**IP Address:** `mc.wokepikmin.army`\
 **Minecraft version:** `1.20.1`\
 **Mod loader:** Forge\
 **Whitelist:** Enabled (bother `theev` on discord about getting whitelisted)\
@@ -42,10 +43,16 @@ The Minecraft server integrates with the `#minecwaft` channel on the discord, wi
      <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/e27162af-8070-431b-8557-0dcc43e7c044" />
    - The mods will be automatically installed and you can click "Close" on the remaining window. Your game is now ready to go.
 
+# The next steps
+## Game settings
+Take time to fiddle with your game settings, especially stuff like shader quality, UI scale, better to have this stuff ready before the first session. Spin up a singleplayer world to make sure stuff works and runs well enough.
+## Familiarize yourself with the very basics of the modpack
+There's a basic tutorial released by the developer of the mod, it's worth watching so that the first session goes a bit more smoothly. There's also a survivalist guide you can read through in a singleplayer world.\
+[Fantasia - A Beginner's Guide (YT)](https://youtu.be/64ZVcSPLABk?si=ff4ibO6wCC46WDSn)
+## Connecting to the server
+It's dead simple. Click "Multiplayer", then "Add Server", put in whatever name you want in the "Server Name" field and `mc.wokepikmin.army` in the "Server Address" field. Click done, bob's your uncle.
+## Voice chat
+Once you're connected to the server and your character is created, you can press `V` to bring up the voice chat menu. The first time you do this it'll guide you through the first setup, simply do what it tells you to do. Or else.
 
-
-
-
-
-
-   
+# Frequently asked questions
+No one's asked me a single question yet :(

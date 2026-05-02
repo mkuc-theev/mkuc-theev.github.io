@@ -31,7 +31,7 @@ The Minecraft server integrates with the `#minecwaft` channel on the discord, wi
      <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/9780ef21-963c-4d72-9369-ef0df006dd26" />
    - Optionally give your instance a custom name and click "Ok"\
      <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/3c631903-16bf-4054-bbc2-c36ebb8733f6" />
-   - You'll likely see this window pop up. Clicking the "Open missing" button will open several tabs in your browser. Clicking each tab will "auto"matically start the downloads for the missing mods.\
+   - You'll likely see this window pop up. Clicking the "Open missing" button will open several tabs in your browser. Clicking each tab will automatically start the downloads for the missing mods.\
      <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/6892c4cc-4e33-4b2e-8260-a2e576fe5e2d" />
    - After the downloads are complete, return to Prism. It should say "All mods found" in the bottom-left corner. Click "Ok" to continue\
      <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/7fa3af63-080c-49f0-9f86-e846928b7184" />

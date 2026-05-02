@@ -19,18 +19,18 @@ The Minecraft server integrates with the `#minecwaft` channel on the discord, wi
 - A microphone* (highly recommended as most of our communications will use proximity VC, but not strictly needed)
 
 # Getting your game set up
-1. [Download](https://prismlauncher.org/) Prism from their website and install the program. Log into your Microsoft account. You'll be greeted with this window:<img width="1900" height="1484" alt="image" src="https://github.com/user-attachments/assets/2cfef3ab-5229-48b2-b99d-ad234130c5ce" />
+1. [Download](https://prismlauncher.org/) Prism from their website and install the program. Log into your Microsoft account. You'll be greeted with this window:<img width=80% alt="image" src="https://github.com/user-attachments/assets/2cfef3ab-5229-48b2-b99d-ad234130c5ce" />
 2. Download the following mods: [Fantasia](https://www.curseforge.com/minecraft/modpacks/waccyys-fantasia/files/8004402), [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/7905002) and [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352920).
 3. Create your minecraft instance:
-   - Click on "Add instance" in the top-left corner of the window <img width="1046" height="368" alt="image" src="https://github.com/user-attachments/assets/4f92dc51-0d9e-4754-ac14-064c2fc44156" />
-   - On the left, select "Import", then click "Browse" <img width="1482" height="964" alt="image" src="https://github.com/user-attachments/assets/9c121c1f-efb4-4e48-ba31-eca8c70ca2d9" />
-   - Navigate to where you downloaded Fantasia and double-click the file <img width="1922" height="1098" alt="image" src="https://github.com/user-attachments/assets/9780ef21-963c-4d72-9369-ef0df006dd26" />
-   - Optionally give your instance a custom name and click "Ok" <img width="1504" height="966" alt="image" src="https://github.com/user-attachments/assets/3c631903-16bf-4054-bbc2-c36ebb8733f6" />
-   - You'll likely see this window pop up. Clicking the "Open missing" button will open several tabs in your browser. Clicking each tab will automatically start the downloads for the missing mods. <img width="1424" height="1074" alt="image" src="https://github.com/user-attachments/assets/6892c4cc-4e33-4b2e-8260-a2e576fe5e2d" />
-   - After the downloads are complete, return to Prism. It should say "All mods found" in the bottom-left corner. Click "Ok" to continue <img width="1426" height="1082" alt="image" src="https://github.com/user-attachments/assets/7fa3af63-080c-49f0-9f86-e846928b7184" />
+   - Click on "Add instance" in the top-left corner of the window <img width=80% alt="image" src="https://github.com/user-attachments/assets/4f92dc51-0d9e-4754-ac14-064c2fc44156" />
+   - On the left, select "Import", then click "Browse" <img width=80% alt="image" src="https://github.com/user-attachments/assets/9c121c1f-efb4-4e48-ba31-eca8c70ca2d9" />
+   - Navigate to where you downloaded Fantasia and double-click the file <img wwidth=80% alt="image" src="https://github.com/user-attachments/assets/9780ef21-963c-4d72-9369-ef0df006dd26" />
+   - Optionally give your instance a custom name and click "Ok" <img width=80% alt="image" src="https://github.com/user-attachments/assets/3c631903-16bf-4054-bbc2-c36ebb8733f6" />
+   - You'll likely see this window pop up. Clicking the "Open missing" button will open several tabs in your browser. Clicking each tab will automatically start the downloads for the missing mods. <img width=80% alt="image" src="https://github.com/user-attachments/assets/6892c4cc-4e33-4b2e-8260-a2e576fe5e2d" />
+   - After the downloads are complete, return to Prism. It should say "All mods found" in the bottom-left corner. Click "Ok" to continue <img width=80% alt="image" src="https://github.com/user-attachments/assets/7fa3af63-080c-49f0-9f86-e846928b7184" />
 4. After the instance is created, let's add the rest of the mods.
-   - Right-click the instance and select "Edit...". Navigate to "Mods" and click "Add file" <img width="3050" height="1320" alt="image" src="https://github.com/user-attachments/assets/2251ef4e-1f67-409d-b0c7-7e4df4ffa07a" />
-   - Ctrl + click both the Simple Voice Chat and Sound Physics Remastered `.jar` files to select them, then click "Open" <img width="1918" height="1084" alt="image" src="https://github.com/user-attachments/assets/e27162af-8070-431b-8557-0dcc43e7c044" />
+   - Right-click the instance and select "Edit...". Navigate to "Mods" and click "Add file" <img width=80% alt="image" src="https://github.com/user-attachments/assets/2251ef4e-1f67-409d-b0c7-7e4df4ffa07a" />
+   - Ctrl + click both the Simple Voice Chat and Sound Physics Remastered `.jar` files to select them, then click "Open" <img width=80% alt="image" src="https://github.com/user-attachments/assets/e27162af-8070-431b-8557-0dcc43e7c044" />
    - The mods will be automatically installed and you can click "Close" on the remaining window. Your game is now ready to go.
 
 

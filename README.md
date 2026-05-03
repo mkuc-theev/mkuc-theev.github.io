@@ -22,7 +22,7 @@ The Minecraft server integrates with the `#minecwaft` channel on the discord, wi
 # Getting your game set up
 1. [Download](https://prismlauncher.org/) Prism from their website and install the program. Log into your Microsoft account. You'll be greeted with this window:
     <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/2cfef3ab-5229-48b2-b99d-ad234130c5ce" />
-2. Download the following `.jar` files: [Fantasia](https://www.curseforge.com/minecraft/modpacks/waccyys-fantasia/files/8004402), [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/7905002) and [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352920).
+2. Download the following files: [Fantasia (`.zip`)](https://www.curseforge.com/minecraft/modpacks/waccyys-fantasia/files/8004402), [Simple Voice Chat (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/7905002) and [Sound Physics Remastered (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352920).
 3. Create your minecraft instance:
    - Click on "Add instance" in the top-left corner of the window\
      <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/4f92dc51-0d9e-4754-ac14-064c2fc44156" />

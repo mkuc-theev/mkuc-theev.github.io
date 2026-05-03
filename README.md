@@ -55,4 +55,5 @@ It's dead simple. Click "Multiplayer", then "Add Server", put in whatever name y
 Once you're connected to the server and your character is created, you can press `V` to bring up the voice chat menu. The first time you do this it'll guide you through the first setup, simply do what it tells you to do. Or else.
 
 # Frequently asked questions
-No one's asked me a single question yet :(
+### Q: Can I ask you the first question?
+**A:** Yes.

@@ -1,14 +1,14 @@
-# The Official WTMC Fantasia Minecraft Server Client Setup Guide
-<sub> *(TOWTMCFMSCSG) for short* </sub>
+# The Official WTMC MCE2 Minecraft Server Client Setup Guide
+<sub> *(TOWTMCMCE2MSCSG) for short* </sub>
 ## Some server information
 **IP Address:** `mc.wokepikmin.army`\
 **Minecraft version:** `1.20.1`\
 **Mod loader:** Forge\
 **Whitelist:** Enabled (bother `theev` on discord about getting whitelisted)\
-**Modpack:** [Fantasia](https://www.curseforge.com/minecraft/modpacks/waccyys-fantasia)\
+**Modpack:** [MC Eternal 2](https://www.curseforge.com/minecraft/modpacks/mc-eternal-2)\
 **Additional mods not in the pack:**
-- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
-- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
+- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/7905002)
+- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352920)
 - (OPTIONAL!) [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/8037629) (get it from this link, the mod is frequently updated and this is the version on the server)
 
 <sub> (don't worry, install instructions are below, aside from DH but it's installed the same as the other mods and I'm too lazy to retake screenies) </sub>\
@@ -21,9 +21,10 @@ The Minecraft server integrates with the `#minecwaft` channel on the discord, wi
 - A microphone* (highly recommended as most of our communications will use proximity VC, but not strictly needed)
 
 # Getting your game set up
+<sub> *Yes I know the screenshots show fantasia, I'm not retaking all of them, it's basically the same process, you're smart enough* </sub>
 1. [Download](https://prismlauncher.org/) Prism from their website and install the program. Log into your Microsoft account. You'll be greeted with this window:
     <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/2cfef3ab-5229-48b2-b99d-ad234130c5ce" />
-2. Download the following files: [Fantasia (`.zip`)](https://www.curseforge.com/minecraft/modpacks/waccyys-fantasia/files/8004402), [Simple Voice Chat (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/7905002), [Distant Horizons (optional) (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/8037629) and [Sound Physics Remastered (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352920).
+2. Download the following files: [MCE2 (`.zip`)](https://www.curseforge.com/minecraft/modpacks/mc-eternal-2/files/8258389), [Simple Voice Chat (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/7905002), [Distant Horizons (optional) (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/8037629) and [Sound Physics Remastered (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352920).
 3. Create your minecraft instance:
    - Click on "Add instance" in the top-left corner of the window\
      <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/4f92dc51-0d9e-4754-ac14-064c2fc44156" />
@@ -45,11 +46,13 @@ The Minecraft server integrates with the `#minecwaft` channel on the discord, wi
    - The mods will be automatically installed and you can click "Close" on the remaining window. Your game is now ready to go.
 
 # The next steps
+## Mod compatibility stuff
+If you're using Distant Horizons, you're going to have to do two things:
+1. Go into your minecraft folder and edit `config/alexscaves-client.toml` and set `biome_ambient_light_coloring` to `false`
+2. Either delete or disable the Chunky mod to silence the DH warning in in-game chat
+3. In the Prism instance settings, go to the Java tab and under memory, set minimum and maximum memory usage such that they're both the same (recommended 8192 MiB). Also, tick the "Java Arguments" box and paste in `-XX:+UseZGC -XX:+AlwaysPreTouch`
 ## Game settings
 Take time to fiddle with your game settings, especially stuff like shader quality, UI scale, better to have this stuff ready before the first session. Spin up a singleplayer world to make sure stuff works and runs well enough.
-## Familiarize yourself with the very basics of the modpack
-There's a basic tutorial released by the developer of the mod, it's worth watching so that the first session goes a bit more smoothly. There's also a survivalist guide you can read through in a singleplayer world.\
-[Fantasia - A Beginner's Guide (YT)](https://youtu.be/64ZVcSPLABk?si=ff4ibO6wCC46WDSn)
 ## Connecting to the server
 It's dead simple. Click "Multiplayer", then "Add Server", put in whatever name you want in the "Server Name" field and `mc.wokepikmin.army` in the "Server Address" field. Click done, bob's your uncle.
 ## Voice chat

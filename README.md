@@ -51,6 +51,7 @@ If you're using Distant Horizons, you're going to have to do two things:
 1. Go into your minecraft folder and edit `config/alexscaves-client.toml` and set `biome_ambient_light_coloring` to `false`
 2. Either delete or disable the Chunky mod to silence the DH warning in in-game chat
 3. In the Prism instance settings, go to the Java tab and under memory, set minimum and maximum memory usage such that they're both the same (recommended 8192 MiB). Also, tick the "Java Arguments" box and paste in `-XX:+UseZGC -XX:+AlwaysPreTouch`
+\
 ## Game settings
 Take time to fiddle with your game settings, especially stuff like shader quality, UI scale, better to have this stuff ready before the first session. Spin up a singleplayer world to make sure stuff works and runs well enough.
 ## Connecting to the server

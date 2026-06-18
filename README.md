@@ -9,9 +9,8 @@
 **Additional mods not in the pack:**
 - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/7905002)
 - [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352920)
-- (OPTIONAL!) [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/8263042) (get it from this link, the mod is frequently updated and this is the version on the server)
 
-<sub> (don't worry, install instructions are below, aside from DH but it's installed the same as the other mods and I'm too lazy to retake screenies) </sub>\
+<sub> (don't worry, install instructions are below) </sub>\
 \
 The Minecraft server integrates with the `#minecwaft` channel on the discord, with a bot that provides server online status, player count, player joining/leaving/advancement notifications, and relays messages both ways between the discord channel and the in-game text chat.
 
@@ -24,7 +23,7 @@ The Minecraft server integrates with the `#minecwaft` channel on the discord, wi
 <sub> *Yes I know the screenshots show fantasia, I'm not retaking all of them, it's basically the same process, you're smart enough* </sub>
 1. [Download](https://prismlauncher.org/) Prism from their website and install the program. Log into your Microsoft account. You'll be greeted with this window:
     <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/2cfef3ab-5229-48b2-b99d-ad234130c5ce" />
-2. Download the following files: [MCE2 (`.zip`)](https://www.curseforge.com/minecraft/modpacks/mc-eternal-2/files/8258389), [Simple Voice Chat (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/7905002), [Distant Horizons (optional) (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/8263042) and [Sound Physics Remastered (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352920).
+2. Download the following files: [MCE2 (`.zip`)](https://www.curseforge.com/minecraft/modpacks/mc-eternal-2/files/8258389), [Simple Voice Chat (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/7905002) and [Sound Physics Remastered (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352920).
 3. Create your minecraft instance:
    - Click on "Add instance" in the top-left corner of the window\
      <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/4f92dc51-0d9e-4754-ac14-064c2fc44156" />
@@ -46,11 +45,8 @@ The Minecraft server integrates with the `#minecwaft` channel on the discord, wi
    - The mods will be automatically installed and you can click "Close" on the remaining window. Your game is now ready to go.
 
 # The next steps
-## Mod compatibility stuff
-If you're using Distant Horizons, you're going to have to do two things:
-1. Go into your minecraft folder and edit `config/alexscaves-client.toml` and set `biome_ambient_light_coloring` to `false`
-2. Either delete or disable the Chunky mod to silence the DH warning in in-game chat
-3. In the Prism instance settings, go to the Java tab and under memory, set minimum and maximum memory usage such that they're both the same (recommended 8192 MiB). Also, tick the "Java Arguments" box and paste in `-XX:+UseZGC -XX:+AlwaysPreTouch`
+
+In the Prism instance settings, go to the Java tab and under memory, set minimum and maximum memory usage such that they're both the same (recommended 8192 or 10238 MiB). Also, tick the "Java Arguments" box and paste in `-Xms10G -Xmx10G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1`
 \
 ## Game settings
 Take time to fiddle with your game settings, especially stuff like shader quality, UI scale, better to have this stuff ready before the first session. Spin up a singleplayer world to make sure stuff works and runs well enough.

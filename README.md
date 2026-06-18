@@ -9,7 +9,7 @@
 **Additional mods not in the pack:**
 - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/7905002)
 - [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352920)
-- (OPTIONAL!) [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/8037629) (get it from this link, the mod is frequently updated and this is the version on the server)
+- (OPTIONAL!) [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/8263042) (get it from this link, the mod is frequently updated and this is the version on the server)
 
 <sub> (don't worry, install instructions are below, aside from DH but it's installed the same as the other mods and I'm too lazy to retake screenies) </sub>\
 \
@@ -24,7 +24,7 @@ The Minecraft server integrates with the `#minecwaft` channel on the discord, wi
 <sub> *Yes I know the screenshots show fantasia, I'm not retaking all of them, it's basically the same process, you're smart enough* </sub>
 1. [Download](https://prismlauncher.org/) Prism from their website and install the program. Log into your Microsoft account. You'll be greeted with this window:
     <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/2cfef3ab-5229-48b2-b99d-ad234130c5ce" />
-2. Download the following files: [MCE2 (`.zip`)](https://www.curseforge.com/minecraft/modpacks/mc-eternal-2/files/8258389), [Simple Voice Chat (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/7905002), [Distant Horizons (optional) (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/8037629) and [Sound Physics Remastered (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352920).
+2. Download the following files: [MCE2 (`.zip`)](https://www.curseforge.com/minecraft/modpacks/mc-eternal-2/files/8258389), [Simple Voice Chat (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/7905002), [Distant Horizons (optional) (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/8263042) and [Sound Physics Remastered (`.jar`)](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352920).
 3. Create your minecraft instance:
    - Click on "Add instance" in the top-left corner of the window\
      <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/4f92dc51-0d9e-4754-ac14-064c2fc44156" />

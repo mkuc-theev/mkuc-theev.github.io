@@ -8,7 +8,6 @@
 **Modpack:** [Better MC 3](https://www.curseforge.com/minecraft/modpacks/better-mc-fabric-bmc3/files/8051910)\
 **Additional mods not in the pack:**
 - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/8293104)
-- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352948)
 - [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/8287411) (Optional but highly recommended)
 - [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech/files/8295561)
 - [Reliable Backpacks](https://www.curseforge.com/minecraft/mc-mods/reliable-backpacks/files/8223384)
@@ -26,7 +25,7 @@ The Minecraft server integrates with the `#minecwaft` channel on the discord, wi
 <sub> *Yes I know the screenshots show fantasia, I'm not retaking all of them, it's basically the same process, you're smart enough* </sub>
 1. [Download](https://prismlauncher.org/) Prism from their website and install the program. Log into your Microsoft account. You'll be greeted with this window:
     <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/2cfef3ab-5229-48b2-b99d-ad234130c5ce" />
-2. Download [Better MC 3](https://www.curseforge.com/minecraft/modpacks/better-mc-fabric-bmc3/files/8051910), [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/8293104), [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/6352948), [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/8287411) (if you want), [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech/files/8295561) and [Reliable Backpacks](https://www.curseforge.com/minecraft/mc-mods/reliable-backpacks/files/8223384).
+2. Download [Better MC 3](https://www.curseforge.com/minecraft/modpacks/better-mc-fabric-bmc3/files/8051910), [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/8293104), [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/8287411) (if you want), [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech/files/8295561) and [Reliable Backpacks](https://www.curseforge.com/minecraft/mc-mods/reliable-backpacks/files/8223384).
 3. Create your minecraft instance:
    - Click on "Add instance" in the top-left corner of the window\
      <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/4f92dc51-0d9e-4754-ac14-064c2fc44156" />
@@ -43,7 +42,7 @@ The Minecraft server integrates with the `#minecwaft` channel on the discord, wi
 4. After the instance is created, let's add the rest of the mods.
    - Right-click the instance and select "Edit...". Navigate to "Mods" and click "Add file"\
      <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/2251ef4e-1f67-409d-b0c7-7e4df4ffa07a" />
-   - Ctrl + click both the Simple Voice Chat, Sound Physics Remastered, DH, Oritech, Reliable Backpacks and/or other applicable `.jar` files to select them, then click "Open"\
+   - Ctrl + click both the Simple Voice Chat, DH, Oritech, Reliable Backpacks and/or other applicable `.jar` files to select them, then click "Open"\
      <img width="80%" height="auto" alt="image" src="https://github.com/user-attachments/assets/e27162af-8070-431b-8557-0dcc43e7c044" />
    - The mods will be automatically installed and you can click "Close" on the remaining window. Your game is now ready to go.
 
